@@ -3,7 +3,7 @@ layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
 short-description: Build a production quality SaaS app that allows users to create their own wikis.
-quote: Figuring out how to implement the has_many to has_many relationship for collaborators and private wikis was a particular challenge
+quote: " \"Figuring out how to implement the has_many to has_many relationship for collaborators and private wikis was a particular challenge\""
 
 ---
 
