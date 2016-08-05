@@ -2,7 +2,8 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis. 
+short-description: Build a production quality SaaS app that allows users to create their own wikis.
+quote: Figuring out how to implement the has_many to has_many relationship for collaborators and private wikis was a particular challenge
 
 ---
 
@@ -15,7 +16,7 @@ Blocipedia is a project designed by Bloc to give their students a broad range of
 
 ## Problem
 
-Beyond simple creating a basic wiki site where users create and edit any and all pages Blocipedia provides a paid premium user option that allows for the creation of wikis only viewable by other premium users; in addition to the premium users creating and editing private wikis we wanted the premium user to be able to add collaborators to the private wikis that they create, these collaborators are regular users who are give specific access to view and edit these wikis.
+Beyond simple creating a basic wiki site where users create and edit any and all pages Blocipedia provides a paid premium user option that allows for the creation of wikis only viewable by other premium users; in addition to the premium users creating and editing private wikis we wanted the premium user to be able to add regular users as collaborators to the private wikis that they create, these collaborators gain access to view and edit these wikis.  Figuring out how to implement the has_many to has_many relationship for collaborators and private wikis was a particular challenge for me.
 
 ## Solution
 

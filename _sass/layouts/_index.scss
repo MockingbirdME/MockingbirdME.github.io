@@ -1,6 +1,6 @@
 // Header text feature
 .call-out {
-  padding:5% 0;
+  padding:5% 0 0 0;
   display: inline-block;
   width: 100%;
   background-size: cover;
@@ -81,11 +81,17 @@ h4 {
   display: block;
   float: left;
   width: 100%;
-
+  .short-description{
+    font-size: .9em;
+  }
+  .quote{
+    font-size: .75em;
+    font-style: italic;
+  }
   .project {
     display: inline-block;
     width:100%;
-    max-width: 500px;
+    max-width: 535px;
     clear: none;
     margin: 1em auto;
     .project-thumb {

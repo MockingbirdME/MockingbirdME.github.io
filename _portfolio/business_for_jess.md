@@ -3,6 +3,7 @@ layout: post
 title: Small Business Website
 thumbnail-path: "img/Jess_business.png"
 short-description: Build a function website for a small business that can handle their scheduling.
+quote: this project involved booking appointments and keeping the business's schedule conflict free
 
 ---
 
