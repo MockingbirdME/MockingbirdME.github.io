@@ -5,4 +5,6 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello, my name is Devon and I'm currently a student at [Bloc](http://bloc.io) studying to become a software engineer.  You'll fine my most recent work, and challenging work here.  I currently reside in South Portland, Maine where I am preparing to look for employment.
+Hello, my name is Devon and I'm currently a student at [Bloc](http://bloc.io) studying to become a software engineer.  You'll find my most recent work, and challenging work here.  I currently reside in South Portland, Maine where I am preparing to look for employment.
+
+If you were to talk to my wife, she'd tell you I'm a geek.
