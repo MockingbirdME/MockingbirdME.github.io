@@ -8,7 +8,7 @@ quote: "\"this project involved booking appointments and keeping the business's 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/Jess_business.png)
 
 ## Explanation
 
